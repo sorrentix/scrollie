@@ -1,6 +1,13 @@
 # Scrollie
 Scrollie is an attempt to rethink the scroll to top animation. When you are on a page where have scrolled a lot, you don't want to see that *"matrix like"* effect to go bak on top. This is my solution to the problem.
 
+You can find the demos here:
+
+<a href="http://www.sorrentix.com/scrollie/demo/demo_no_options.html">demo default option</a>
+
+<a href="http://www.sorrentix.com/scrollie/demo/demo_options.html">demo custom option</a>
+
+
 ## How to use
 * Include this script element in your html
 ```html
