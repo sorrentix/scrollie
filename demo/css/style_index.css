@@ -1,0 +1,27 @@
+header{
+	width: 100%;
+	overflow: hidden;
+	max-height: 400px;
+}
+
+header img{
+	width: 100%;
+}
+
+.container{
+	width: 60%;
+	margin: 50px auto;	
+}
+
+.container p{
+	line-height: 1.4;
+	margin: 10px 0;
+	color: #444444;
+}
+
+
+.container h1{
+	font-family: 'Roboto Condensed', arial;
+	font-size: 3em;
+	color: #333333;
+}
