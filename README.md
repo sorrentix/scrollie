@@ -1,5 +1,6 @@
 # Scrollie
-Scrollie is an attempt to rethink the scroll to top animation. When you are on a page where have scrolled a lot, you don't want to see that *"matrix like"* effect to go bak on top. This is my solution to the problem.
+Scrollie is an attempt to rethink the scroll to top animation and *most of all* an exercise to me. When I'm on a page where I have scrolled a lot, and if I'm on a computer whith low performance configuration, what I see with the typical animation effect is a buggy effect. This is an attempt to solve that problem. 
+As pointed out by someone this can be confusing for the users as they don't see a real scroll effect. I'm working on a new version which merge the fade and the scroll to top effect.
 
 You can find the demos here:
 
