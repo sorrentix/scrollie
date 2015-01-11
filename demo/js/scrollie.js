@@ -104,7 +104,7 @@
       over.style["-webkit-animation-duration"] = time;
       over.style["-moz-animation-duration"] = time;
       over.style["-o-animation-duration"] = time;
-      over.style["animation-duration"] = time;
+      over.style.animationDuration = time;
 
       over.style["-webkit-animation-timing-function"] = settings.animFunction;
       over.style["-moz-animation-timing-function"] = settings.animFunction;
